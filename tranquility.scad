@@ -9,7 +9,7 @@ gap=1.5; // x width of bits between keys
 
 mincol = 1; // set this to 1 change the columns to 5. sorry
 columns = 6; // leave this as 6
-nrows = 4; // number of rows
+nrows = 3; // number of rows
 nthumbs = 4; // number of thumb keys
 fingers = [0,0,15,24,19,19,19]; // controls y adjustment of columns
 thumbs = [0,0,0,0,0,0,0]; // shift the thumb keys back and forward. doesn't really work
