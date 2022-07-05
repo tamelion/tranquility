@@ -7,7 +7,7 @@ th=1.5; // thickness of top
 bth=1; // bottom thickness
 gap=1.5; // x width of bits between keys
 
-mincol = 0; // set this to 1 change the columns to 5. sorry
+mincol = 1; // set this to 1 change the columns to 5. sorry
 columns = 6; // leave this as 6
 nrows = 4; // number of rows
 nthumbs = 4; // number of thumb keys
